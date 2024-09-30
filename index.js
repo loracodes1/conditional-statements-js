@@ -25,7 +25,7 @@ if (Age >= 18) {
 isOld;
 console.log(isOld)
 
-// if...else
+// else clause
 //Often we want to run one block of code when the condition returns a truthy value and a different block of code when it returns a falsey value. To do this, we use an else clause:
 //BLOCK OF CODE
 const theAge=14;
