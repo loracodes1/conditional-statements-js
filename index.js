@@ -35,3 +35,4 @@ if(theAge>=18){
 }else{
     isGrown=false;
 }
+console.log(isGrown)
